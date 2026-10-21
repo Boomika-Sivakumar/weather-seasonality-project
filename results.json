@@ -1,0 +1,14 @@
+{
+    "hottest_month": "Jul",
+    "hottest_mean_C": 24.5,
+    "coldest_month": "Jan",
+    "coldest_mean_C": 5.46,
+    "wettest_month": "Jul",
+    "average_rainfall_in_wettest_month_mm": 93.95,
+    "annual_rainfall_average_mm": 759.25,
+    "heaviest_5_day_rainfall_mm": 117.65,
+    "heaviest_5_day_period_ends": "2023-06-30",
+    "largest_positive_anomaly_C": 8.48,
+    "largest_negative_anomaly_C": -9.15,
+    "days_over_4C_from_monthly_average_percent": 16.99
+}
